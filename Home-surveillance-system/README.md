@@ -1,1 +1,3 @@
-"#Home-surveillance-system" 
+"Home-surveillance-system" 
+- Proiectul abordează dezvoltarea unui sistem de supraveghere cu camere Web folosind metode moderne de dezvoltare a aplicatiilor și tehnologii open-source. Într-o era în care securitatea și monitorizarea în timp real devin tot mai imporatante, acest proiect își propune să creeze un sistem eficient care să ofere vizualizarea unui obiectiv pe internet, prin intermediul camerelor web conectate. Scopul lucrării este crearea unui sistem care permite vizualizarea obiectivului urmărit și alertarea sonoră în cazul în care apare o situație neașteptată cum ar fi prezența unui obiect în mișcare în încăperea care ar trebui să fie goală.
+- Sistemul va identifica orice mișcare în cadrul captat de cameră folosind algoritmul de comparare a cadrelor consecutive (frame differencing) - la detectarea unei mișcări, sistemul începe automat să înregistreze și să salveze fișierele video pe disc si o alerta sonora va fi declansata.
