@@ -7,14 +7,14 @@ Gesture Control Robot Car is an Arduino-based robotic system that allows users t
 ![WhatsApp Image 2025-01-14 at 18 44 14_37643cb0](https://github.com/user-attachments/assets/dace6081-a6b5-49ba-b015-33c4f95ae872)
 
 # Components
-      Transmitter Unit:
+# Transmitter Unit:
 Arduino Uno – Processes sensor data and sends commands.
 MPU6050 Sensor – Captures hand movements.
 Bluetooth HC-05 (Master) – Sends data to the robot.
 Battery Pack (2x 18650 Li-ion) – Powers the transmitter.
 Jumper Wires – Connects components.
 
-    Receiver Unit (Robot Car):
+# Receiver Unit (Robot Car):
 Arduino Uno – Receives and processes commands.
 Bluetooth HC-05 (Slave) – Receives data from the transmitter.
 Chassis with 4 DC Motors – Moves the robot.
