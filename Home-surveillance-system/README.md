@@ -3,10 +3,15 @@ This project is a motion detection-based home surveillance system built using Fl
 
 # 📌 Features
 ✅ Live Video Streaming – View real-time camera feed via a web interface.
+
 ✅ Motion Detection – Uses OpenCV to detect movement by comparing consecutive frames.
+
 ✅ Automated Video Recording – Saves video recordings when motion is detected.
+
 ✅ Customizable Sensitivity – Adjust the detection threshold dynamically via an API request.
+
 ✅ Audio Alerts – Plays an alarm sound (alert.wav) when motion is detected.
+
 ✅ Video Storage – Saves motion-triggered recordings in the recordings/ directory.
 
 # 🛠️ Technologies Used
