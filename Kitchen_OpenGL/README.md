@@ -53,7 +53,7 @@ Solid mode (default)
 Wireframe mode (press '2')
 Point mode (press '3')
 
-![image](https://github.com/user-attachments/assets/b879469b-968a-4490-a750-bf9f224d3c78)
+![image](https://github.com/user-attachments/assets/477b52af-e5a7-41dd-b493-c7b07710b88b)
 
 # 🛠 Implementation Details
 # Lighting & Shadows
