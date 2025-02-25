@@ -1,3 +1,17 @@
-Home-surveillance-system
-- Proiectul abordează dezvoltarea unui sistem de supraveghere cu camere Web folosind metode moderne de dezvoltare a aplicatiilor și tehnologii open-source. Într-o era în care securitatea și monitorizarea în timp real devin tot mai imporatante, acest proiect își propune să creeze un sistem eficient care să ofere vizualizarea unui obiectiv pe internet, prin intermediul camerelor web conectate. Scopul lucrării este crearea unui sistem care permite vizualizarea obiectivului urmărit și alertarea sonoră în cazul în care apare o situație neașteptată cum ar fi prezența unui obiect în mișcare în încăperea care ar trebui să fie goală.
-- Sistemul va identifica orice mișcare în cadrul captat de cameră folosind algoritmul de comparare a cadrelor consecutive (frame differencing) - la detectarea unei mișcări, sistemul începe automat să înregistreze și să salveze fișierele video pe disc si o alerta sonora va fi declansata.
+# 🏠 Home Surveillance System - Backend
+This project is a motion detection-based home surveillance system built using Flask and OpenCV. It captures real-time video, detects motion using frame differencing, and automatically records videos when motion is detected. The system also triggers audio alerts to notify users of detected movement.
+
+# 📌 Features
+✅ Live Video Streaming – View real-time camera feed via a web interface.
+✅ Motion Detection – Uses OpenCV to detect movement by comparing consecutive frames.
+✅ Automated Video Recording – Saves video recordings when motion is detected.
+✅ Customizable Sensitivity – Adjust the detection threshold dynamically via an API request.
+✅ Audio Alerts – Plays an alarm sound (alert.wav) when motion is detected.
+✅ Video Storage – Saves motion-triggered recordings in the recordings/ directory.
+
+# 🛠️ Technologies Used
+Python 3 – Main programming language
+Flask – Web framework for the backend API
+OpenCV – Image processing library for motion detection
+Pygame – Used for playing alert sounds
+Flask-CORS – Enables cross-origin requests
