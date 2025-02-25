@@ -10,8 +10,12 @@ This project is a motion detection-based home surveillance system built using Fl
 ✅ Video Storage – Saves motion-triggered recordings in the recordings/ directory.
 
 # 🛠️ Technologies Used
-#Python 3 – Main programming language
-#Flask – Web framework for the backend API
-#OpenCV – Image processing library for motion detection
-#Pygame – Used for playing alert sounds
-#Flask-CORS – Enables cross-origin requests
+Python 3 – Main programming language
+
+Flask – Web framework for the backend API
+
+OpenCV – Image processing library for motion detection
+
+Pygame – Used for playing alert sounds
+
+Flask-CORS – Enables cross-origin requests
