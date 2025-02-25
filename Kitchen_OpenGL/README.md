@@ -6,9 +6,13 @@ Demonstration: https://www.youtube.com/watch?v=F55X4Sci8_k
 # 🚀 Project Overview
 This project focuses on 3D object integration and manipulation, using Blender for modeling and OpenGL for rendering. It combines artistic design and graphics programming to create an interactive, realistic scene. Features include:
 ✅ Directional and point lighting
+
 ✅ Shadows and reflections
+
 ✅ Wireframe and solid view modes
+
 ✅ Rain, fog, and lightning effects
+
 ✅ Animated wine pouring effect
 
 The scene depicts a modern kitchen with detailed furniture, appliances, and interactive lighting effects, offering an immersive 3D experience.
@@ -17,9 +21,13 @@ The scene depicts a modern kitchen with detailed furniture, appliances, and inte
 
 # 🎨 Technologies Used
 Blender – 3D modeling and texturing
+
 OpenGL – Graphics rendering
+
 GLM – Mathematics library
+
 GLEW & GLFW – Window management
+
 C++ – Programming language
 
 # 🏗 Scene Composition
@@ -36,21 +44,34 @@ Outdoor scenery (mountain view, trees, skybox)
 # 🔥 Key Features & Effects
 # 🎥 Camera Movements
 Move: W, A, S, D
+
 Elevation: U, I
+
 Rotate: Arrow keys
+
 Automated guided tour through the scene
+
 # 💡 Lighting System
 Directional light (Phong shading)
+
 Point lights (appliances & fireplace glow)
+
 Realistic shadow mapping
+
 # 🌧 Special Effects
 Fog & rain simulation
+
 Lightning flashes (press 'F')
+
 Wine pouring animation (press '0')
+
 Glass transparency effects
+
 # 🎨 Rendering Modes
 Solid mode (default)
+
 Wireframe mode (press '2')
+
 Point mode (press '3')
 
 ![image](https://github.com/user-attachments/assets/477b52af-e5a7-41dd-b493-c7b07710b88b)
@@ -58,14 +79,18 @@ Point mode (press '3')
 # 🛠 Implementation Details
 # Lighting & Shadows
 Implemented using Phong shading model
+
 Shadow mapping for directional light
+
 Blended transparency for realistic reflections
 
 ![image](https://github.com/user-attachments/assets/421345d6-9dd7-4ee4-8cf3-c2489ea1aefb)
 
 # Physics & Animations
 Particle system for rain
+
 Wine pouring animation using transformations
+
 Lightning flicker effect
 
 ![image](https://github.com/user-attachments/assets/74445ea0-7297-4732-8525-cdeb24e7b5fa)
