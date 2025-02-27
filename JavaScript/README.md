@@ -7,9 +7,8 @@
 # My Contributions
 
 * During this project, I worked on several pages and functionalities as part of my learning journey after completing a fundamental course in: HTML, CSS, JavaScript, React, Node.js
-
-# GitHub & Jira: 
-Throughout this period, I also familiarized myself with version control using GitHub and project management with Jira.
+  
+* GitHub & Jira: Throughout this period, I also familiarized myself with version control using GitHub and project management with Jira.
 
 # Here are some visuals showcasing my contributions to the project:
 
