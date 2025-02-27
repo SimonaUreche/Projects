@@ -18,4 +18,5 @@ Technologies Used 🛠️
 * Design Patterns: Singleton, Observer, Strategy
 * Frameworks & Libraries: Java Swing (for graphical user interface, if applicable)
 
-  ![Uploading WhatsApp Image 2025-02-27 at 16.48.23_a7b505d3.jpg…]()
+![WhatsApp Image 2025-02-27 at 16 48 23_f919e75f](https://github.com/user-attachments/assets/cedc4346-5904-4547-9379-4df06847eb38)
+
