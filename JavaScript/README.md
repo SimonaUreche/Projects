@@ -1,6 +1,20 @@
-- Cateva pagini facute de mine in cadrul perioadei de proiect dupa terminarea unui curs de baza: HTML, CSS, JavaScript, React, Node.js.
-- Mentionez ca la proiect s-a lucrat in mai multe persoane, aici prezint o mica parte la care am lucrat eu.
-- Tot in cadrul acestei perioade m-am familiarizat cu GitHub si Jira.
+# CleanIT - Home Cleaning App
+
+# About the Project
+
+# CleanIT is a home cleaning application designed to simplify and organize cleaning tasks efficiently. The project was developed as a collaborative effort, and this repository showcases a portion of the work I contributed to during the development phase.
+
+# My Contributions
+
+During this project, I worked on several pages and functionalities as part of my learning journey after completing a fundamental course in:
+
+# HTML, CSS, JavaScript, React, Node.js
+
+# GitHub & Jira: 
+Throughout this period, I also familiarized myself with version control using GitHub and project management with Jira.
+
+# Here are some visuals showcasing my contributions to the project:
+
 
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/bed57cc2-5749-43f7-84ad-fc8053f067dd" />
 
