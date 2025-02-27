@@ -14,7 +14,7 @@ This project is a motion detection-based home surveillance system built using Fl
 
 ✅ Video Storage – Saves motion-triggered recordings in the recordings/ directory.
 
-<img width="1280" alt="image" src="https://github.com/user-attachments/assets/41d60434-1094-4dd3-b776-5bdea5362bc6" />
+<img width="1271" alt="image" src="https://github.com/user-attachments/assets/83026f1d-7c25-431f-b586-c055fc68a1e8" />
 
 # 🛠️ Technologies Used
 Python 3 – Main programming language
