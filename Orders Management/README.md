@@ -17,6 +17,7 @@ This project is a queue management application designed for handling customer or
 ✅ Queue System: Efficiently handle and prioritize order processing.
 
 ![image](https://github.com/user-attachments/assets/4a82513a-103f-4502-bb98-25e6aba536be)
+
 ![image](https://github.com/user-attachments/assets/65a63969-4673-48de-b5e4-06938065aa97)
 
 # 🛠 Technologies Used
