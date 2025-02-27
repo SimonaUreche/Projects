@@ -17,6 +17,7 @@ This project is a queue management application designed for handling customer or
 ✅ Queue System: Efficiently handle and prioritize order processing.
 
 ![image](https://github.com/user-attachments/assets/4a82513a-103f-4502-bb98-25e6aba536be)
+![image](https://github.com/user-attachments/assets/65a63969-4673-48de-b5e4-06938065aa97)
 
 # 🛠 Technologies Used
 
@@ -30,10 +31,10 @@ JDBC: Database connection and management.
 
 Maven: Dependency management.
 
-![image](https://github.com/user-attachments/assets/65a63969-4673-48de-b5e4-06938065aa97)
-
 # 💡System Architecture - 
 The application is structured using multiple packages:
+
+![image](https://github.com/user-attachments/assets/731d5e79-8b5e-4858-8c4e-c00eebe36be2)
 
 Business Logic Layer (BLL): Handles core application logic.
 
@@ -43,4 +44,3 @@ Model: Defines entities such as Client, Order, Product.
 
 Presentation: Manages GUI components.
 
-![image](https://github.com/user-attachments/assets/731d5e79-8b5e-4858-8c4e-c00eebe36be2)
