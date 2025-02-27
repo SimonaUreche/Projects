@@ -37,6 +37,8 @@ Monitors active subscriptions and helps identify unused services.
 # Personal Data Management:
 Secure storage and display of user information and card details.
 
+<img width="1277" alt="image" src="https://github.com/user-attachments/assets/fbe6514f-d33e-43be-af92-a8da5c8dac6b" />
+
 # Technologies Used
 
 # Backend – Flask:
