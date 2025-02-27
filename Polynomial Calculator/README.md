@@ -1,15 +1,15 @@
-Polynomial Calculator
+# 📌 Polynomial Calculator
 
-# Overview
+# 🚀 Overview
 
 This project is a Polynomial Calculator with a graphical user interface (GUI) that allows users to perform fundamental polynomial operations such as:
 
-* Addition
-* Subtraction
-* Multiplication
-* Division
-* Derivation
-* Integration
+* ✅ Addition
+* ✅ Subtraction
+* ✅ Multiplication
+* ✅ Division
+* ✅ Derivation
+* ✅ Integration
   
 <img width="304" alt="image" src="https://github.com/user-attachments/assets/7f8820a4-f5d0-4598-a75a-572f871edcad" />
 
