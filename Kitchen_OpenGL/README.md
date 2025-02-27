@@ -5,6 +5,7 @@ Demonstration: https://www.youtube.com/watch?v=F55X4Sci8_k
 
 # 🚀 Project Overview
 This project focuses on 3D object integration and manipulation, using Blender for modeling and OpenGL for rendering. It combines artistic design and graphics programming to create an interactive, realistic scene. Features include:
+
 ✅ Directional and point lighting
 
 ✅ Shadows and reflections
