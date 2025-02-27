@@ -2,7 +2,7 @@
 
 # About the Project
 
-# CleanIT is a home cleaning application designed to simplify and organize cleaning tasks efficiently. The project was developed as a collaborative effort, and this repository showcases a portion of the work I contributed to during the development phase.
+CleanIT is a home cleaning application designed to simplify and organize cleaning tasks efficiently. The project was developed as a collaborative effort, and this repository showcases a portion of the work I contributed to during the development phase.
 
 # My Contributions
 
