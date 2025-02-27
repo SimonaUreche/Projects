@@ -6,7 +6,7 @@ CleanIT is a home cleaning application designed to simplify and organize cleanin
 
 # My Contributions
 
-During this project, I worked on several pages and functionalities as part of my learning journey after completing a fundamental course in:
+-> During this project, I worked on several pages and functionalities as part of my learning journey after completing a fundamental course in:
 
 # HTML, CSS, JavaScript, React, Node.js
 
@@ -14,7 +14,6 @@ During this project, I worked on several pages and functionalities as part of my
 Throughout this period, I also familiarized myself with version control using GitHub and project management with Jira.
 
 # Here are some visuals showcasing my contributions to the project:
-
 
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/bed57cc2-5749-43f7-84ad-fc8053f067dd" />
 
