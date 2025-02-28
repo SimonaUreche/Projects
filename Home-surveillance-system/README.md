@@ -1,4 +1,4 @@
-# 🏠 Home Surveillance System - Backend
+# 🏠 Home Surveillance System 
 This project is a motion detection-based home surveillance system built using Flask and OpenCV. It captures real-time video, detects motion using frame differencing, and automatically records videos when motion is detected. The system also triggers audio alerts to notify users of detected movement.
 
 # 📌 Features
