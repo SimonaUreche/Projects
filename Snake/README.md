@@ -6,10 +6,15 @@ This project is a classic implementation of the Snake game using Java and the Sw
 # Features
 
 ✅ Classic Snake gameplay
+
 ✅ Randomly generated apples
+
 ✅ Increasing difficulty (snake speed increases after every 5 apples eaten)
+
 ✅ Pause and Resume functionality
+
 ✅ Simple and interactive GUI
+
 ✅Victory condition (player wins after eating 50 apples)
 
 ![WhatsApp Image 2025-02-28 at 09 08 41_b6565748](https://github.com/user-attachments/assets/983132f8-f1f3-4591-b1e0-d3dc9621f80b)
