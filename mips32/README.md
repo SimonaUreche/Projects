@@ -21,7 +21,7 @@ MIPS32 is a 32-bit Reduced Instruction Set Computer (RISC) architecture develope
     * J-type (Jump instructions)
   
  # General-Purpose Registers:
-32 registers ($0 - $31), with $0 always storing the value 0.
+* 32 registers ($0 - $31), with $0 always storing the value 0.
   
  # Pipeline Execution:
 * Supports pipelined processing to improve instruction throughput.
@@ -30,7 +30,7 @@ MIPS32 is a 32-bit Reduced Instruction Set Computer (RISC) architecture develope
 A 5-stage pipeline was implemented for instruction execution:
 
 * # Instruction Fetch (IF) 
-– Fetches instructions from memory.
+ Fetches instructions from memory.
 
 * # Instruction Decode (ID) – 
 Decodes instructions and fetches register values.
