@@ -23,6 +23,8 @@ Teach Pacman to navigate the game world using search algorithms.
 
 ✅ A Search (A-Star)* – Uses heuristics to find the best path efficiently.
 
+
+
 # 🎯 2. Pacman Multi-Agent AI
 # 🔍 Goal
 Develop AI agents that make intelligent decisions in an environment with ghosts and food pellets.
