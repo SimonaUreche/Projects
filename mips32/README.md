@@ -29,7 +29,7 @@ MIPS32 is a 32-bit Reduced Instruction Set Computer (RISC) architecture develope
 # 🏗️ MIPS32 Pipeline Implementation - 
 A 5-stage pipeline was implemented for instruction execution:
 
-* # Instruction Fetch (IF) 
+* # Instruction Fetch (IF) -
  Fetches instructions from memory.
 
 * # Instruction Decode (ID) – 
