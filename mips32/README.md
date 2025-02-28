@@ -11,7 +11,7 @@ MIPS32 is a 32-bit Reduced Instruction Set Computer (RISC) architecture develope
 * Load/Store Architecture: All operations are performed on registers, and memory access happens through load/store instructions.
   
 * Fixed-Length Instructions: 32-bit instructions ensure simplicity in decoding.
-* 
+  
 # * Three Instruction Formats:
 
      * R-type (Register-based operations)
