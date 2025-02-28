@@ -12,7 +12,7 @@ MIPS32 is a 32-bit Reduced Instruction Set Computer (RISC) architecture develope
   
 * Fixed-Length Instructions: 32-bit instructions ensure simplicity in decoding.
   
-# * Three Instruction Formats:
+* # Three Instruction Formats:
 
      * R-type (Register-based operations)
   
@@ -20,28 +20,28 @@ MIPS32 is a 32-bit Reduced Instruction Set Computer (RISC) architecture develope
   
     * J-type (Jump instructions)
   
-# * General-Purpose Registers:
+* # General-Purpose Registers:
 32 registers ($0 - $31), with $0 always storing the value 0.
   
-# * Pipeline Execution:
+* # Pipeline Execution:
 * Supports pipelined processing to improve instruction throughput.
 
 # 🏗️ MIPS32 Pipeline Implementation - 
 A 5-stage pipeline was implemented for instruction execution:
 
-# * Instruction Fetch (IF) 
+* # Instruction Fetch (IF) 
 – Fetches instructions from memory.
 
-# * Instruction Decode (ID) – 
+* # Instruction Decode (ID) – 
 Decodes instructions and fetches register values.
 
-# * Execution (EX) – 
+* # Execution (EX) – 
 Performs arithmetic/logic operations.
 
-# * Memory Access (MEM) – 
+* # Memory Access (MEM) – 
 Reads/writes data from/to memory.
 
-# * Write Back (WB) – 
+* # Write Back (WB) – 
 Writes results to registers.
 
 # 🏆 Key Functionalities of the MIPS32 Pipeline Processor
