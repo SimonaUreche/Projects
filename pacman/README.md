@@ -16,8 +16,11 @@ Teach Pacman to navigate the game world using search algorithms.
 # 🧠 Implemented Search Algorithms
 
 ✅ Depth-First Search (DFS) – Explores deep paths first.
+
 ✅ Breadth-First Search (BFS) – Explores all possible paths level by level.
+
 ✅ Uniform Cost Search (UCS) – Finds the least-cost path.
+
 ✅ A Search (A-Star)* – Uses heuristics to find the best path efficiently.
 
 # 🎯 2. Pacman Multi-Agent AI
@@ -27,8 +30,11 @@ Develop AI agents that make intelligent decisions in an environment with ghosts 
 # 🤖 Implemented AI Techniques
 
 ✅ Minimax Algorithm – Decision-making with adversarial agents (ghosts).
+
 ✅ Alpha-Beta Pruning – Optimized Minimax for better performance.
+
 ✅ Expectimax Algorithm – Probabilistic decision-making.
+
 ✅ Evaluation Functions – Custom heuristics for better gameplay.
 
 # 🐍 Python Technologies Used
